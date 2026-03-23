@@ -10,4 +10,16 @@ Through interactive dashboards and exploratory analysis, the project highlights 
 - Discover top-performing products and regions
 - Provide business recommendations
 
+## 📊 Dashboard Preview
 
+### Full Dashboard
+![Dashboard](images/dashboard.png)
+
+### Profit by Year
+![Profit](images/profit_by_year.png)
+
+### Sales by Category
+![Sales](images/sales_by_category.png)
+
+### Sales Forecast
+![Forecast](images/sales_forecast.png)
