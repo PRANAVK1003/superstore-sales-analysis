@@ -23,3 +23,15 @@ Through interactive dashboards and exploratory analysis, the project highlights 
 
 ### Sales Forecast
 ![Forecast](images/sales_forecast.png)
+
+## 🔍 Key Insights
+
+- High discounts significantly reduce profit margins
+- Furniture category shows consistent losses
+- Technology category drives highest profitability
+- A small number of products contribute majority of revenue
+
+## Tools Used : 
+-Power BI
+-Ms-Excel
+
